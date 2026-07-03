@@ -52,6 +52,10 @@ The DreamPlays developer cluster adheres to strict automated code profiling, sem
 
 * **Deployment Access:** Restricted exclusively to authenticated internal security keys.
 * **Software Licensing:** Proprietary Institutional Sandbox Framework.
+* ### 👥 Core Engineering Leadership
+* **Chief Systems Architect:** [Tumhara Name/GitHub Username]
+* **Lead Infrastructure Engineer:** [Yugank ka Name/GitHub Username]
+* 
 
 ---
 <p align="center">
