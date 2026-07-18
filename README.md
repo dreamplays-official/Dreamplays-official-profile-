@@ -54,7 +54,7 @@ The DreamPlays developer cluster adheres to strict automated code profiling, sem
 * **Software Licensing:** Proprietary Institutional Sandbox Framework.
 * ### 👥 Core Engineering Leadership
 * **Founder:** [Arnav Tyagi/dreamplays-official]
-* **Lead Infrastructure Engineer:** [Yugank Vishnoi/dteamplays-official]
+* **Lead Infrastructure Engineer:** [Yugank Vishnoi/dreamplays-official]
 * 
 
 ---
